@@ -11,14 +11,6 @@
 }
 
 .jetpack-sync-panel__status-notice {
-	background: none;
 	color: $gray-text-min;
-}
-
-.jetpack-sync-panel .jetpack-sync-panel__status-notice .notice__content {
-	padding-left: 0;
-}
-
-.jetpack-sync-panel__status-notice .notice__icon {
-	display: none;
+	font-size: 12px;
 }
